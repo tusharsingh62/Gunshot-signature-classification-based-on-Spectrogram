@@ -7,6 +7,6 @@ Now dataset is generated as spectrogram image and labeled accordingly in Muzzle 
 
 For example, I have uploded spectrogram sample for both shockwave and muzzle blast. We can quickly diffrentiate just by looking in the samples.
 
-Now, we have a dataset in the form of image, and it becomes image classification problem. I used to create convolutional neural network architecture since we have small dataset, it is necessary to to build simple architecture for better accuray in test set.
+Now, we have a dataset in the form of image, and it becomes image classification problem. I used to create convolutional neural network architecture since we have small dataset, it is necessary to build simple architecture for better accuray in test set.
 
 Finally, I have achieved 100% accuracy in 27 Epochs for test data.
