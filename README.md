@@ -1,6 +1,7 @@
 # Gunshot-signature-classification-based-on-Spectrogram
 
 **Concept of best spectrogram generation for classification purpose**
+
 Muzzle blast and Shockwave classification in gunshots based on spectrogram required some manual engineering to generate the dataset from raw signal. We have already extracted muzzle blast and shockwave using  Events_sepfrmpq function in matlab code or Python from Ground reflections removal in Gunshot signals repository from raw signals (Experimentally collected data & Mp3 files of gunshots)
 
 Now dataset is generated as spectrogram image and labeled accordingly in Muzzle balst or Shockwave. We are more concered about energy content in the signature. Shockwave signature is more sharp and less spreaded in time domain i.e high frequency content must be present. Muzzle blast is more spreaded in time domain i.e less frequency content must be there.
