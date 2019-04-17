@@ -11,4 +11,4 @@ For example, I have uploded spectrogram sample for both shockwave and muzzle bla
 Now, we have a dataset in the form of image, and it becomes image classification problem. I used to create convolutional neural network architecture since we have small dataset, it is necessary to build simple architecture for better accuray in test set.
 Keras library is used to create convolutional and pooling layers
 
-Finally, I have achieved 100% accuracy in 27 Epochs for test data.
+Finally, achieved 100% accuracy in 27 Epochs for test data.
